@@ -1,0 +1,58 @@
+package testCases;
+import java.time.Duration;
+import org.apache.commons.lang3.RandomStringUtils;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class BaseTest {
+	
+	public WebDriver driver;
+	public Logger logger;
+	
+	@BeforeClass
+	public void setUp()
+	{
+		logger=LogManager.getLogger(this.getClass());
+		
+		
+		driver = new ChromeDriver();
+		logger.info("****** chrome browser opened ****");
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().deleteAllCookies();
+		driver.manage().window().maximize();
+		driver.get("http://www.lootsell.com/");
+		
+		
+	}
+	
+	@AfterClass
+	public void tearDown()
+	{
+		driver.quit();
+	}
+	
+	public String randomString()
+	{
+		String randomstring =RandomStringUtils.randomAlphabetic(5);
+		return randomstring;
+	}
+	
+	public String randomNumber()
+	{
+		String generatenumber=RandomStringUtils.randomNumeric(10);
+		return generatenumber;
+		
+	}
+	
+	public String randomAlphaNumeric()
+	{
+		String randomstring =RandomStringUtils.randomAlphabetic(3);
+		String alphanumeric=RandomStringUtils.randomAlphanumeric(3);
+		return (randomstring+"@"+alphanumeric);
+	}
+
+}

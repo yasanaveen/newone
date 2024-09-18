@@ -1,0 +1,14 @@
+package testCases;
+
+public class TC002_LoginTest extends BaseTest{
+	
+	public void verify_Login()
+	{
+		
+		logger.info("***starting TC002_LoginTest");
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package PageObjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class LoginPage extends parentConstuctor{
+	
+	//public WebDriver driver;
+	
+	LoginPage(WebDriver driver)
+	{
+		super(driver);
+	}
+
+}

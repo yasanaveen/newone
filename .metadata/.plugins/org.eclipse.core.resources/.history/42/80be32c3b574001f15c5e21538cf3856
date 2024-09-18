@@ -1,0 +1,36 @@
+package testCases;
+
+import org.testng.Assert;
+
+import PageObjects.HomePage;
+import PageObjects.LoginPage;
+import PageObjects.MyAcountPage;
+
+public class TC002_LoginTest extends BaseTest{
+	
+	public void verify_Login()
+	{
+		
+		logger.info("***started TC002_LoginTest *****");
+		
+		HomePage hm=new HomePage(driver);
+		hm.clickMyAccount();
+		hm.clickLgnbutton();
+		
+		LoginPage lp = new LoginPage(driver);
+		lp.username(p.getProperty("Email"));
+		lp.pwd(p.getProperty("password"));
+		lp.clklogin();
+		
+		MyAcountPage mcc=new MyAcountPage(driver);
+		boolean targetpage=mcc.isMyAccountExist();
+		
+		Assert.assertTrue(targetpage);
+		
+		
+		
+		
+		
+	}
+
+}

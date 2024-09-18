@@ -1,0 +1,13 @@
+package JavaPractice;
+
+public class RepeatedCharacters {
+
+	public static void main(String[] args) {
+
+		String str="naveen yasa is a automation test engineer";
+		
+		
+		
+	}
+
+}

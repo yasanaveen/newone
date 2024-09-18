@@ -1,0 +1,13 @@
+PageObjects\RegistrationPage.class
+PageObjects\MyAcountPage.class
+utilities\ExcelUtility.class
+testCases\BaseTest.class
+testCases\TC002_LoginTest.class
+PageObjects\HomePage.class
+PageObjects\parentConstuctor.class
+testCases\TC001_AccountRegistrationTest.class
+practiceSelenium\DeMo.class
+testCases\TC003_LoginDDT.class
+PageObjects\LoginPage.class
+utilities\ExtentReportManager.class
+utilities\DataProviders.class

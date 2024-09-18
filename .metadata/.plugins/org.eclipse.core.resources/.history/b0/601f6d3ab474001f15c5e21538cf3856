@@ -1,0 +1,12 @@
+package PageObjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class MyAcountPage extends parentConstuctor{
+	
+	public MyAcountPage(WebDriver driver) 
+	{
+		super(driver);
+	}
+
+}

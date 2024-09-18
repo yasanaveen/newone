@@ -1,0 +1,188 @@
+2024-09-18 10:37:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\master.xml
+
+2024-09-18 10:37:31 INFO  TC003_LoginDDT:48 - ****** chrome browser opened ****
+2024-09-18 10:37:36 INFO  TC003_LoginDDT:53 - ****** Application Opened ****
+2024-09-18 10:37:39 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDDT ******
+2024-09-18 10:37:42 INFO  TC003_LoginDDT:62 - ****Finished TC003_LoginDDT *****
+2024-09-18 10:37:42 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDDT ******
+2024-09-18 10:37:46 INFO  TC003_LoginDDT:62 - ****Finished TC003_LoginDDT *****
+2024-09-18 10:37:46 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDDT ******
+2024-09-18 10:37:50 INFO  TC003_LoginDDT:62 - ****Finished TC003_LoginDDT *****
+2024-09-18 10:37:50 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDDT ******
+2024-09-18 10:38:02 INFO  TC003_LoginDDT:62 - ****Finished TC003_LoginDDT *****
+2024-09-18 10:38:02 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDDT ******
+2024-09-18 10:38:07 INFO  TC003_LoginDDT:62 - ****Finished TC003_LoginDDT *****
+2024-09-18 10:38:07 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDDT ******
+2024-09-18 10:38:19 INFO  TC003_LoginDDT:62 - ****Finished TC003_LoginDDT *****
+2024-09-18 10:38:19 INFO  TC003_LoginDDT:61 - ****** Browser closed ****
+2024-09-18 21:23:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\master.xml
+
+2024-09-18 21:24:01 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:24:06 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:24:06 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:24:06 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:24:08 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:24:08 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:24:17 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:24:17 INFO  TC001_AccountRegistrationTest:42 - ****** Test Passed ****
+2024-09-18 21:24:17 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:24:17 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:24:18 INFO  TC002_LoginTest:54 - ****** chrome browser opened ****
+2024-09-18 21:24:22 INFO  TC002_LoginTest:59 - ****** Application Opened ****
+2024-09-18 21:24:22 INFO  TC002_LoginTest:16 - ***started TC002_LoginTest *****
+2024-09-18 21:24:24 INFO  TC002_LoginTest:39 - ***Finished TC002_LoginTest *****
+2024-09-18 21:24:24 INFO  TC002_LoginTest:67 - ****** Browser closed ****
+2024-09-18 21:25:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\master.xml
+
+2024-09-18 21:25:25 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:25:29 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:25:29 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:25:29 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:25:30 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:25:30 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:25:39 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:25:39 INFO  TC001_AccountRegistrationTest:42 - ****** Test Passed ****
+2024-09-18 21:25:39 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:25:39 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:25:40 INFO  TC002_LoginTest:54 - ****** chrome browser opened ****
+2024-09-18 21:25:44 INFO  TC002_LoginTest:59 - ****** Application Opened ****
+2024-09-18 21:25:44 INFO  TC002_LoginTest:16 - ***started TC002_LoginTest *****
+2024-09-18 21:25:55 INFO  TC002_LoginTest:39 - ***Finished TC002_LoginTest *****
+2024-09-18 21:25:56 INFO  TC002_LoginTest:67 - ****** Browser closed ****
+2024-09-18 21:41:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\crosbrowsertest.xml
+
+2024-09-18 21:41:32 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:41:34 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:41:37 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:41:37 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:41:38 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:41:38 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:41:38 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:41:38 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:41:38 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:41:41 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:41:41 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:41:42 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:41:45 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:41:45 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:41:48 ERROR TC001_AccountRegistrationTest:47 - Test Faied:element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.79)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c2b4dfac0c5f1fd346c1ac635d5b9f88, clickElement {id=f.94857CB3679C0FEF5A36E478817B7442.d.43D45BDC9BAC994D6E4ED35DD1A6DFDB.e.73}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 128.0.2739.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:10942}, msedge: {msedgedriverVersion: 128.0.2739.79 (9fa544bdb74f..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:10942/devtoo..., se:cdpVersion: 128.0.2739.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (c2b4dfac0c5f1fd346c1ac635d5b9f88)] -> xpath: //a[normalize-space()='Register']]
+Session ID: c2b4dfac0c5f1fd346c1ac635d5b9f88
+2024-09-18 21:41:48 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:41:51 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:41:57 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:41:57 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:41:57 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:41:58 ERROR TC001_AccountRegistrationTest:47 - Test Faied:element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.79)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c2b4dfac0c5f1fd346c1ac635d5b9f88, clickElement {id=f.94857CB3679C0FEF5A36E478817B7442.d.43D45BDC9BAC994D6E4ED35DD1A6DFDB.e.73}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 128.0.2739.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:10942}, msedge: {msedgedriverVersion: 128.0.2739.79 (9fa544bdb74f..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:10942/devtoo..., se:cdpVersion: 128.0.2739.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (c2b4dfac0c5f1fd346c1ac635d5b9f88)] -> xpath: //a[normalize-space()='Register']]
+Session ID: c2b4dfac0c5f1fd346c1ac635d5b9f88
+2024-09-18 21:41:58 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:41:58 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:47:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\crosbrowsertest.xml
+
+2024-09-18 21:47:19 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:47:21 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:47:21 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:47:21 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:47:23 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:47:24 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:47:24 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:47:25 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:47:25 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:47:25 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:47:25 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:47:28 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:47:28 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:47:29 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:47:30 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:47:30 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:47:35 ERROR TC001_AccountRegistrationTest:47 - Test Faied:no such element: Unable to locate element: {"method":"css selector","selector":"*[name='firstname']"}
+  (Session info: MicrosoftEdge=128.0.2739.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ec269823612ea559644904757ac6468b, findElement {using=name, value=firstname}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 128.0.2739.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:11447}, msedge: {msedgedriverVersion: 128.0.2739.79 (9fa544bdb74f..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:11447/devtoo..., se:cdpVersion: 128.0.2739.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec269823612ea559644904757ac6468b
+2024-09-18 21:47:35 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:47:36 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:47:36 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:47:36 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:47:44 ERROR TC001_AccountRegistrationTest:47 - Test Faied:Tried to run command without establishing a connection
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [28207d4f-a5a1-4b7c-86fe-c7ae8d2bf478, findElement {using=name, value=firstname}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 129.0, moz:accessibilityChecks: false, moz:buildID: 20240801122119, moz:debuggerAddress: 127.0.0.1:10068, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 6348, moz:profile: C:\Users\LENOVO\AppData\Loc..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:10068/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 28207d4f-a5a1-4b7c-86fe-c7ae8d2bf478
+2024-09-18 21:47:44 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:47:44 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:47:44 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:47:44 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:47:44 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:49:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\crosbrowsertest.xml
+
+2024-09-18 21:49:17 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:49:20 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:49:20 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:49:20 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:49:24 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:49:25 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:49:34 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:49:34 INFO  TC001_AccountRegistrationTest:42 - ****** Test Passed ****
+2024-09-18 21:49:34 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:49:35 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:49:38 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:49:41 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:49:41 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:49:41 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:49:43 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:49:43 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:49:56 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:49:56 INFO  TC001_AccountRegistrationTest:42 - ****** Test Passed ****
+2024-09-18 21:49:56 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:49:57 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 21:50:01 INFO  TC001_AccountRegistrationTest:54 - ****** chrome browser opened ****
+2024-09-18 21:50:04 INFO  TC001_AccountRegistrationTest:59 - ****** Application Opened ****
+2024-09-18 21:50:04 INFO  TC001_AccountRegistrationTest:15 - ****** started TC001_AccountRegistrationTest ****
+2024-09-18 21:50:04 INFO  TC001_AccountRegistrationTest:21 - ****** click on my account ****
+2024-09-18 21:50:06 INFO  TC001_AccountRegistrationTest:23 - ****** click on register button ****
+2024-09-18 21:50:06 INFO  TC001_AccountRegistrationTest:26 - ****** Enter customer details ****
+2024-09-18 21:50:11 INFO  TC001_AccountRegistrationTest:39 - *****  validating expected msge  *******
+2024-09-18 21:50:15 INFO  TC001_AccountRegistrationTest:42 - ****** Test Passed ****
+2024-09-18 21:50:15 INFO  TC001_AccountRegistrationTest:52 - ****** Finished TC001_AccountRegistrationTest ****
+2024-09-18 21:50:16 INFO  TC001_AccountRegistrationTest:67 - ****** Browser closed ****
+2024-09-18 22:09:45 INFO  TC002_LoginTest:54 - ****** chrome browser opened ****
+2024-09-18 22:09:49 INFO  TC002_LoginTest:59 - ****** Application Opened ****
+2024-09-18 22:09:49 INFO  TC002_LoginTest:16 - ***started TC002_LoginTest *****
+2024-09-18 22:09:51 INFO  TC002_LoginTest:39 - ***Finished TC002_LoginTest *****
+2024-09-18 22:09:51 INFO  TC002_LoginTest:67 - ****** Browser closed ****
+2024-09-18 22:11:12 INFO  TC002_LoginTest:54 - ****** chrome browser opened ****
+2024-09-18 22:11:15 INFO  TC002_LoginTest:59 - ****** Application Opened ****
+2024-09-18 22:11:15 INFO  TC002_LoginTest:16 - ***started TC002_LoginTest *****
+2024-09-18 22:11:17 INFO  TC002_LoginTest:39 - ***Finished TC002_LoginTest *****
+2024-09-18 22:11:18 INFO  TC002_LoginTest:67 - ****** Browser closed ****
+2024-09-18 22:11:52 INFO  TC002_LoginTest:54 - ****** chrome browser opened ****
+2024-09-18 22:11:56 INFO  TC002_LoginTest:59 - ****** Application Opened ****
+2024-09-18 22:11:56 INFO  TC002_LoginTest:16 - ***started TC002_LoginTest *****
+2024-09-18 22:11:57 INFO  TC002_LoginTest:39 - ***Finished TC002_LoginTest *****
+2024-09-18 22:11:58 INFO  TC002_LoginTest:67 - ****** Browser closed ****

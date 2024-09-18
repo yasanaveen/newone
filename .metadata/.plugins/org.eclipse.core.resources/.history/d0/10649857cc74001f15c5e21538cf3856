@@ -1,0 +1,29 @@
+package testCases;
+
+import org.testng.annotations.Test;
+
+import PageObjects.HomePage;
+import PageObjects.LoginPage;
+import PageObjects.MyAcountPage;
+
+public class TC003_LoginDDT extends BaseTest {
+
+	@Test
+	public void verify_LoginDDT(String username,String pwd,String exp) {
+
+		HomePage hm = new HomePage(driver);
+		hm.clickMyAccount();
+		hm.clickLgnbutton();
+
+		LoginPage lp = new LoginPage(driver);
+		lp.username(username);
+		lp.pwd(pwd);
+		lp.clklogin();
+
+		MyAcountPage mcc = new MyAcountPage(driver);
+		boolean targetpage = mcc.isMyAccountExist();
+		
+
+	}
+
+}

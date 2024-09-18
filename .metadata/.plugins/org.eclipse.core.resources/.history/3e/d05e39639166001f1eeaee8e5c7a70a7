@@ -1,0 +1,235 @@
+package JavaPractice;
+
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+
+
+public class Practice {
+
+	public static void main(String[] args) {
+
+	/*	String str="naveen yasa";
+		String[] rev=str.split(" ");
+		
+		for(int i=0;i<=str.length()-1;i++)
+		{
+			if(i==0)
+			{
+				System.out.print(rev[1]+" ");
+			}
+			else if(i==1)
+			{
+				System.out.print(rev[0]+" ");
+			}
+		} */
+		
+		
+	/*	String str="naveenyasa automation testengineer";
+		char firstcharacter=str.charAt(0);
+		int count=0;
+		
+		for(int i=0;i<=str.length()-1;i++)
+		{
+			if(firstcharacter==str.charAt(i))
+			{
+				count++;
+			}
+		}
+		System.out.println("firstcharacter:- "+firstcharacter+" is Repeats "+count+" times");
+		*/
+		
+		/*for(int i=2;i<=10;i++)
+		{
+			boolean isPrime=true;
+			
+			for(int j=2;j<=Math.sqrt(i);j++)
+			{
+				if(i%j==0)
+				{
+					isPrime=false;
+					break;
+				}
+			}
+			if(isPrime)
+			{
+				System.out.print(i);
+			}
+		}
+		*/
+		
+		/*String str="naveen";
+		
+		Set<Object> set = new LinkedHashSet<Object>();
+		
+		for(int i =0;i<=str.length()-1;i++)
+		{
+			set.add(str.charAt(i));
+		}
+		for(Object c:set)
+		{
+			System.out.print(c);
+		}*/
+		
+		/*String str="naveen";
+		char[] ch=str.toCharArray();
+		
+		for(int i=0;i<=str.length()-1;i++)
+		{
+			for(int j=i+1;j<=str.length()-1;j++)
+			{
+				if(ch[i]==ch[j])
+				{
+					System.out.print(ch[i]);
+				}
+			}
+		}*/
+		
+//		ArrayList set= new ArrayList();
+//		
+//		set.add(1);
+//		set.add(7);
+//		set.add(6);
+//		set.add(7);
+//		set.add(9);
+//		Collections.sort(set);
+//		System.out.println(set);
+		
+		
+		
+		/*String str="Naveen";
+		int vowels=0;
+		int consonents=0;
+		
+		for(int i=0;i<=str.length()-1;i++)
+		{
+			char ch=str.charAt(i);
+			if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
+			{
+				vowels++;
+			}
+			else
+			{
+				consonents++;
+			}
+		}
+		System.out.println(vowels);
+		System.out.println(consonents);
+		*/
+		
+//		String str="naveen";
+//		
+//		Set<Object>set=new LinkedHashSet<Object>();
+//		
+//		for(int i=0;i<=str.length()-1;i++)
+//		{
+//			set.add(str.charAt(i));
+//		}
+//		
+//		for(Object c:set)
+//		{
+//			System.out.print(c);
+//		}
+		
+//		for(int i=2;i<=10;i++)
+//		{
+//			boolean isPrime=true;
+//			
+//			for(int j=2;j<=Math.sqrt(i);j++)
+//			{
+//				if(i%j==0)
+//				{
+//					isPrime=false;
+//					break;
+//				}
+//			}
+//			if(isPrime)
+//			{
+//				System.out.print(i);
+//			}
+//		}
+		
+		//String str="yasa naveen";
+//		String[] rev=str.split(" ");
+//		
+//		for(int i=0;i<=str.length()-1;i++)
+//		{
+//			if(i==0)
+//			{
+//				System.out.print(rev[1]+" ");
+//			}
+//			else if(i==1)
+//			{
+//				System.out.print(rev[0]+" ");
+//			}
+//		}
+		
+//		String rev="";
+//		for(int i=str.length()-1;i>=0;i--)
+//		{
+//			rev=rev+str.charAt(i);
+//		}
+//			System.out.println(rev);
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
